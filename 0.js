@@ -1,5 +1,4 @@
-export {gq0}
-let gq0 ={
+{
 	zones:[
 		{
 			midi:0
